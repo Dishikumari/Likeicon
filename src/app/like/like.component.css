@@ -1,0 +1,15 @@
+.glyphicon {
+    color:yellow;
+    cursor:pointer;
+    margin-top: auto;
+    font-size:40px;
+    width:50px;
+}
+.highlighted{
+    color:red;
+    font-size:40px;
+    width:50px;
+}
+.likesCount{
+    font-size: 40px;
+}
